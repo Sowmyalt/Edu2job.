@@ -21,7 +21,7 @@ certifi==2025.4.26
 cffi==2.0.0
 chardet==3.0.4
 charset-normalizer==3.4.2
-click==8.2.1
+click
 
 colorama==0.4.6
 comm==0.2.2
