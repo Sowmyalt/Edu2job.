@@ -32,6 +32,7 @@ const Home = () => (
   </div>
 );
 
+// Trigger Vercel Redeploy
 function App() {
   const clientId = import.meta.env.VITE_GOOGLE_CLIENT_ID || "YOUR_GOOGLE_CLIENT_ID";
 
