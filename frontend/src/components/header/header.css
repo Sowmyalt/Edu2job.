@@ -1,0 +1,38 @@
+.h-wrapper {
+    color: white;
+}
+
+.h-container {
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    color: var(--secondary);
+}
+
+.h-menu {
+    gap: 1.5rem;
+}
+
+.h-menu>*:hover {
+    cursor: pointer;
+}
+
+/* Dark Header Style (for non-landing pages) */
+.h-wrapper.dark-header {
+    position: relative;
+    /* Background handled by inner layer */
+}
+
+.h-wrapper.dark-header .white-gradient {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    background: rgba(255, 255, 255, 0.4);
+    /* Stronger opacity for visibility */
+    filter: blur(100px);
+    border-radius: 100px;
+    top: -50%;
+    left: -10%;
+    z-index: 0;
+    pointer-events: none;
+}

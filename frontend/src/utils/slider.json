@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "occupation": "Python Developer",
+    "detail": "Bachelor of Technology in Computer Science and Engineering - VIT , Tamil Nadu",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ananya Sharma",
+    "occupation": "Sales Associate",
+    "detail": "Bachelor of Commerce, St. Joseph’s Degree College, Bangalore",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Rohan Verma",
+    "occupation": "DevOps Engineer",
+    "detail": "Bachelor of Technology in Information Technology , IIT Hyderabad",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Divya Kapoor",
+    "occupation": "VLSI Engineer",
+    "detail": "Bachelor of Technology in ECE , BMS College of Engineering, Bangalore",
+    "image": "./r4.png"
+  },
+  {
+  "name": "Anjali Gupta",
+  "occupation": "Data Engineer",
+  "detail": "Bachelor of Computer Applications (BCA), University of Delhi, Delhi",
+  "image": "./r5.png"
+},
+ {
+  "name": "Priya Nair",
+  "occupation": "UI/UX Designer",
+  "detail": "Bachelor of Design (B.Des) in Visual Communication, NID, Ahmedabad",
+  "image": "./r6.png"
+}
+]
