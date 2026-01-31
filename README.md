@@ -8,7 +8,7 @@ Edu2Job is a data-driven career guidance platform that helps students transition
 - Personalized learning roadmaps
 - Insights into emerging job roles and industry trends
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Frontend: React
 - Backend: Django 
 - Database: PostgreSQL 
